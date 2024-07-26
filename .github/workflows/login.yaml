@@ -1,4 +1,4 @@
-name: Run Login Script
+name: Run Login Script serv00全自动化批量保号
 
 on:
   workflow_dispatch:
